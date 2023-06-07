@@ -9,6 +9,11 @@ Features:
 - Updates the inventory of coffee ingredients (e.g., coffee beans, milk, water) as each drink is prepared.
 - Notifies users when the inventory is running low and prompts for refilling if necessary.
 
+Program Keywords:
+-Report : When the user enters “report” to the prompt, a report should be generated that shows the current resource values.
+-Off : For maintainers of the coffee machine, user can use “off” as the secret word to turn off the machine.   
+-Refill : When the user enters “refill” to the prompt, the values of all ingredients gets refilled.
+
 Requirements:
 - Python 3.x
 
